@@ -1,0 +1,11 @@
+---
+test1:
+  goingfrom: BOM
+  gointo: JFK
+  date: 24/04/2023
+  special: HYD
+test2:
+  goingfrom: New Delhi
+  gointo: JFK
+  date: 28/04/2023
+  special: HYD

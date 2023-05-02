@@ -1,0 +1,8 @@
+Lib/
+Scripts/
+pytest_cache/
+ppk.text
+kishore.txt
+.idea/
+*.log
+*__pycache__
